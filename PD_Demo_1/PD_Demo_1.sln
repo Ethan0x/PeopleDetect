@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PD_Demo_1", "PD_Demo_1\PD_Demo_1.vcxproj", "{4EC1F06B-536F-478E-B261-DED9054218FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openmp_test_1", "..\..\parallel\openmp_test_1\openmp_test_1.vcxproj", "{4C831834-5DE6-42F5-8C41-647C217429B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EC1F06B-536F-478E-B261-DED9054218FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EC1F06B-536F-478E-B261-DED9054218FA}.Debug|Win32.Build.0 = Debug|Win32
+		{4EC1F06B-536F-478E-B261-DED9054218FA}.Release|Win32.ActiveCfg = Release|Win32
+		{4EC1F06B-536F-478E-B261-DED9054218FA}.Release|Win32.Build.0 = Release|Win32
+		{4C831834-5DE6-42F5-8C41-647C217429B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C831834-5DE6-42F5-8C41-647C217429B8}.Debug|Win32.Build.0 = Debug|Win32
+		{4C831834-5DE6-42F5-8C41-647C217429B8}.Release|Win32.ActiveCfg = Release|Win32
+		{4C831834-5DE6-42F5-8C41-647C217429B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
