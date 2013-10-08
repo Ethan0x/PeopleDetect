@@ -1,0 +1,5 @@
+PeopleDetect
+============
+
+HOG + SVM 
+
